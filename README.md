@@ -23,8 +23,7 @@ To study how GPT-2 generates text and how randomness (sampling) affects creativi
 - ReportLab 📄  
 
 ## 📁 Project Files
-- `gpt2_experiment.py` → Main code  
-- `gpt2_clean_experiment.csv` → Generated dataset  
+- `gpt2_experiment.py` → Main code    
 - `GPT2_Experiment_Report.pdf` → Final report  
 - `README.md` → Project description
 - 
